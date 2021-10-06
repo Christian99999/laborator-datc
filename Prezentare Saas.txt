@@ -1,0 +1,2 @@
+O aplicatie cloud pe care am folosit-o este google drive.
+Google drive este o aplicatie cloud care stocheaza fisiere de la utilizator pe serverele google, care pot fi utilizate de catre utilizator pe orice device.
